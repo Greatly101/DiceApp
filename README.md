@@ -1,6 +1,6 @@
 # Dice App
 
-A dice application built with the Flutter Framework. The Dice Faces change when user taps on Dice.
+A dice application built with the Flutter Framework. The Dice Face changes when user taps on Dice.
 
 ## Getting Started
 
